@@ -1,0 +1,54 @@
+h2 {
+    color:blue;
+} 
+h1{
+    color: #8a11a8;
+}
+
+.full{
+   border: solid;  
+}
+
+.opt {
+    margin-left: 2.5%;
+}
+
+.item { 
+    border: solid;
+}
+
+.abtus {
+    border: solid;
+}
+
+.imgamy { 
+    position: relative;
+}
+
+.imgamy p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.imgamy:hover p {
+    opacity: 1;
+}
+
+.imgamy:hover img{
+    opacity: 33%;
+}
+
+.contact {
+    border: solid;
+}
+
+.Amity{
+    color: #085FA1;
+}
+
+.infoabt {
+    color: #085FA1;  
+}
